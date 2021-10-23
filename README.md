@@ -17,7 +17,7 @@
 
 ### Deploy on [Heroku](https://heroku.com)
 ဒီနေရာကိုနှိပ်ပါ။
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/viperadnan-git/google-drive-telegram-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/publicmm9/GdriveXviewerAccess)
 
 
 ### Configuration Values
